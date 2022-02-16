@@ -1,0 +1,22 @@
+achats:
+    - sélection_catégorie_achat
+    - src_achat
+    - description prod (plusieurs pages identiques/différente au contenu)
+ventes:
+    - sélection_catégorie_achat
+    - src_ventes
+    - description prod (plusieurs pages identiques/différente au contenu)
+service:
+    - src_service
+    - service_offres (plusieurs pages identiques/différente au contenu)
+    - demande_service
+
+connexion:
+    - connexion/inscription au compte
+    - modification_du_compte
+    - information
+
+#A nommer#:
+    - Présentation équipe
+    - Condition Général de Vente
+    - Condition Général d'Utilisation
